@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mail</title>
+    <g id="mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#333333" cx="10" cy="10" r="10"></circle>
+        <path d="M14.5,6 L5.5,6 C4.67157288,6 4,6.67157288 4,7.5 L4,13.5 C4,14.3284271 4.67157288,15 5.5,15 L14.5,15 C15.3284271,15 16,14.3284271 16,13.5 L16,7.5 C16,6.67157288 15.3284271,6 14.5,6 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M10.9061543,11.1694875 C10.381178,11.6067543 9.61882205,11.6067543 9.09384574,11.1694875 L5.4503505,8.13953424 L5.97798228,7.56047187 L9.69794858,10.6342602 C9.87294069,10.7800158 10.1270593,10.7800158 10.3020514,10.6342602 L13.982715,7.49743764 L14.5496495,8.14425379 L10.9061543,11.1694875 Z" id="路径" fill="#333333" fill-rule="nonzero"></path>
+    </g>
+</svg>
